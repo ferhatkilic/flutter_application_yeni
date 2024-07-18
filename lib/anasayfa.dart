@@ -78,7 +78,7 @@ class _AnasayfaState extends State<Anasayfa> {
                     ),
                   ),
                   Text(
-                    "Serkan Oral - Ege Can Şerefoğlu",
+                    "Serkan Oral - Ege Can Şerefoğlu / Free Consultation",
                     style: TextStyle(
                       fontSize: ekranGenisligi / (ekranGenisligi / 24),
                       color: yaziRenk2,
