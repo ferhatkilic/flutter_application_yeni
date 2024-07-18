@@ -50,7 +50,7 @@ class _AnasayfaState extends State<Anasayfa> {
                 children: [
                   Chip(icerik: "Home"),
                   Chip(icerik: "Appoinment"),
-                  Chip(icerik: "about us"),
+                  Chip(icerik: "About Us"),
                   Chip(icerik: "Contact Us"),
                 ],
               ),
